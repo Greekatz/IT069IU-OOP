@@ -1,6 +1,5 @@
 package Lab4;
-import javax.swing.*;
-import javax.swing.JFrame;
+
 import javax.swing.JPanel;
 import java.awt.Graphics;
 public class CrossLine extends JPanel {

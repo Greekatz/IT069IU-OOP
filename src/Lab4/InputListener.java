@@ -1,6 +1,5 @@
 package Lab4;
-import javax.swing.JOptionPane;
-import javax.swing.*;
+
 public class InputListener {
     private String name;
 
