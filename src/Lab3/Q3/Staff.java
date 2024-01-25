@@ -4,8 +4,8 @@ public class Staff extends Person {
     private String school;
     private double pay;
 
-    public Staff(String name, String address, String school, double pay) {
-        super(name, address);
+    public Staff(String name, String school, double pay) {
+        super(name);
         this.school = school;
         this.pay = pay;
     }

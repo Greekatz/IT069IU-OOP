@@ -5,12 +5,13 @@ public class Person {
     private String address;
 
 
-    public Person() {
-        super();
-    }
     public Person(String name, String address) {
         this.name = name;
         this.address = address;
+    }
+
+    public Person(String name) {
+        this.name = name;
     }
 
     public String getName() {
